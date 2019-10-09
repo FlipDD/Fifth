@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "mutex": "cpp",
+        "vector": "cpp",
+        "chrono": "cpp",
+        "thread": "cpp",
+        "memory": "cpp",
+        "future": "cpp",
+        "xxatomic": "cpp",
+        "ostream": "cpp",
+        "queue": "cpp"
+    }
+}
